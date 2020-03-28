@@ -1,5 +1,5 @@
 -*----------------------------------------------------------------------------------------------
-M2 codes for "K-theory of Tutte polynomials of matroid morphisms"
+M2 codes for "K-theoretic Tutte polynomials of morphisms of matroids"
 
 Authors: Christopher Eur, Tim Seynnaeve
 Last update: 3/28/2020
