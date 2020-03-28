@@ -1154,7 +1154,7 @@ M7 = flagMatroid({matroid({0,1,2},{{0}}), matroid({0,1,2},{{0,2}})})
 
 L = {M1,M2,M3,M4,M5,M6,M7};
 L/isWellDefined
-L/fastKTutte
+L/kTutte
 
 
 
