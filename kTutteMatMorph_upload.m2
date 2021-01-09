@@ -3,7 +3,7 @@ M2 codes for "K-theoretic Tutte polynomials of morphisms of matroids"
 
 Authors: Christopher Eur, Tim Seynnaeve
 Last update: 3/28/2020
-
+Comment: many of the functions here are now incorporated in the Macaulay2 package "GKMVarieties"
 -----------------------------------------------------------------------------------------------*-
 
 needsPackage "Matroids"
